@@ -1,0 +1,10 @@
+adminUser:
+  password: local:siniestros/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: ts.anreb@gmail.com
+  token: local:siniestros/pipelineUser:token
+  username: anareb
+prow:
+  hmacToken: local:siniestros/prow:hmacToken
