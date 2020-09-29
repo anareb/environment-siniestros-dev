@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: anareb
+  repo: testspring
+  url: https://github.com/anareb/testspring.git
+  version: ""
+  versionURL: ""
