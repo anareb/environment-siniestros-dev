@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: anareb
+    provider: github
+    repository: testpring
+  name: anareb-testpring
+spec:
+  description: Imported application for anareb/testpring
+  httpCloneURL: https://github.com/anareb/testpring.git
+  org: anareb
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testpring
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/anareb/testpring.git

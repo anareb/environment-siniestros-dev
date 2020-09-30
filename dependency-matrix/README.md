@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[anareb/testspring](https://github.com/anareb/testspring.git) |  | []() | 
+[anareb/testpring](https://github.com/anareb/testpring.git) |  | []() | 
