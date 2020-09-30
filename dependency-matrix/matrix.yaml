@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: anareb
-  repo: testpring
-  url: https://github.com/anareb/testpring.git
+  repo: express-hello
+  url: https://github.com/anareb/express-hello.git
   version: ""
   versionURL: ""
