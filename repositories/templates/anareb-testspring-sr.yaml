@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: anareb
+    provider: github
+    repository: testspring
+  name: anareb-testspring
+spec:
+  description: Imported application for anareb/testspring
+  httpCloneURL: https://github.com/anareb/testspring.git
+  org: anareb
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testspring
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/anareb/testspring.git

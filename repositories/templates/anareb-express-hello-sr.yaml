@@ -1,0 +1,23 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  annotations:
+    jenkins.io/last-build-number-for-master: "1"
+  creationTimestamp: null
+  labels:
+    owner: anareb
+    provider: github
+    repository: express-hello
+  name: anareb-express-hello
+spec:
+  description: Imported application for anareb/express-hello
+  httpCloneURL: https://github.com/anareb/express-hello.git
+  org: anareb
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: express-hello
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/anareb/express-hello.git

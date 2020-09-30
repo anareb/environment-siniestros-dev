@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: anareb
+  repo: hello-express2
+  url: https://github.com/anareb/hello-express2.git
+  version: ""
+  versionURL: ""

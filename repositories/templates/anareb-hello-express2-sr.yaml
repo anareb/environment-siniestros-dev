@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: anareb
+    provider: github
+    repository: hello-express2
+  name: anareb-hello-express2
+spec:
+  description: Imported application for anareb/hello-express2
+  httpCloneURL: https://github.com/anareb/hello-express2.git
+  org: anareb
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: hello-express2
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/anareb/hello-express2.git
